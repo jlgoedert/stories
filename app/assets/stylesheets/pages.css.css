@@ -1,0 +1,58 @@
+body.kayak {
+  background-image: url("https://images.unsplash.com/photo-1521336575822-6da63fb45455?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2850&q=80");
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+
+img {
+  width: 100%;
+  height: auto;
+}
+
+.top5 {
+  margin-top: 5px;
+}
+
+.top7 {
+  margin-top: 7px;
+}
+
+.top10 {
+  margin-top: 10px;
+}
+
+.top15 {
+  margin-top: 15px;
+}
+
+.top17 {
+  margin-top: 17px;
+}
+
+.top300 {
+  margin-top: 300px;
+}
+
+.bottom5 {
+  margin-bottom: 5px;
+}
+
+.bottom7 {
+  margin-bottom: 7px;
+}
+
+.bottom10 {
+  margin-bottom: 10px;
+}
+
+.bottom15 {
+  margin-bottom: 15px;
+}
+
+.bottom17 {
+  margin-bottom: 17px;
+}
+
+.bottom30 {
+  margin-bottom: 30px;
+}
